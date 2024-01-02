@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Custom Sensative File
+myapp/sqlproxy.json
+
 # C extensions
 *.so
 
